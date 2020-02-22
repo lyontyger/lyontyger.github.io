@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Kulim Park', serif;
+    font-family: 'Kulim Park', ;
     font-style: normal;
     font-weight: 400;
     padding: 2px;
@@ -22,7 +22,7 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Kulim Park', serif;
+    font-family: 'Kulim Park', ;    
     font-style: normal;
     font-weight: 400;
 }
