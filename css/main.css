@@ -17,6 +17,7 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
+    font-family: 'Kulim Park', sans-serif;
     font-size: 2em;
     font-family: 'Kulim Park', sans-serif;    
 }
@@ -31,10 +32,12 @@ footer {
 }
 
 ul.posts { 
+    font-family: 'Kulim Park', sans-serif;
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
 
 ul.posts li {
+    font-family: 'Kulim Park', sans-serif;
     list-style: none;
 }
