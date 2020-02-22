@@ -4,10 +4,6 @@ body {
 }
 nav ul, footer ul {
     font-family: 'Kulim Park', sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    padding: 2px;
-    list-style: none;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -21,10 +17,8 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
+    font-size: 2em;
     font-family: 'Kulim Park', sans-serif;    
-    font-style: normal;
-    font-weight: 400;
 }
 p {
     font-size: 1.5em;
@@ -32,7 +26,6 @@ p {
     color: #333;
 }
 footer {
-    border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
 
