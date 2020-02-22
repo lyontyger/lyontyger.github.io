@@ -4,10 +4,13 @@ body {
 }
 nav ul, footer ul {
     font-family: 'Kulim Park', sans-serif;
+    font-size: 1em;
 }
 nav ul li, footer ul li {
+    font-family: 'Kulim Park', sans-serif;
     display: inline;
-    margin-right: 20px;
+    margin-right: 10px;
+    font-size: 1em;
 }
 a {
     text-decoration: none;
@@ -19,7 +22,6 @@ a:hover {
 h1 {
     font-family: 'Kulim Park', sans-serif;
     font-size: 2em;
-    font-family: 'Kulim Park', sans-serif;    
 }
 p {
     font-family: 'Kulim Park', sans-serif;
@@ -40,4 +42,5 @@ ul.posts {
 ul.posts li {
     font-family: 'Kulim Park', sans-serif;
     list-style: none;
+    font-size: 1em;
 }
