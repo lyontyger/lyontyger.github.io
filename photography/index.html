@@ -1,27 +1,26 @@
 ---
 layout: default
 title: photography
----
-<style>
-.horizontal {
-  height: 400;
-  width: 50%;
-  margin: 5px;
-}
 
-.vertical {
-height: auto;
-  width: 33%;
-  margin: 5px;
+<style>
+.left {
+  margin-left: 2px;
+  margin-right: auto;
+}
+.right {
+  margin-left: auto;
+  margin-right: 2px;
 }
 </style>
 
-<img class="horizontal" src="/photography/photo_5.jpg" alt="Photo5">	
+---
 
-<img class="horizontal" src="/photography/photo_4.jpg" alt="Photo4">	
+<img class="left" src="/photography/photo_5.jpg" style="width=40%" alt="Photo5">	
 
-<img class="vertical" src="/photography/photo_8.jpg" alt="Photo8">	
+<img class="right" src="/photography/photo_4.jpg" style="width=40%" alt="Photo4">	
 
-<img class="vertical" src="/photography/photo_6.jpg" alt="Photo6">	
+<img class="right" src="/photography/photo_8.jpg" style="height=400px" alt="Photo8">	
 
-<img class="vertical" src="/photography/photo_2.jpg" alt="Photo2"> 
+<img src="/photography/photo_6.jpg" style="margin=auto, height=400px" alt="Photo6">	
+
+<img class="left" src="/photography/photo_2.jpg" style="height=400px" alt="Photo2"> 
