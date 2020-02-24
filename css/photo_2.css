@@ -1,3 +1,50 @@
+body {
+    margin: 60px auto;
+    width: 70%;
+}
+nav ul, footer ul {
+    font-family: 'Kulim Park', sans-serif;
+    font-size: 1em;
+}
+nav ul li, footer ul li {
+    font-family: 'Kulim Park', sans-serif;
+    display: inline;
+    margin-right: 10px;
+    font-size: 1em;
+}
+a {
+    text-decoration: none;
+    color: #999;
+}
+a:hover {
+    text-decoration: underline;
+}
+h1 {
+    font-family: 'Kulim Park', sans-serif;
+    font-size: 2em;
+}
+p {
+    font-family: 'Kulim Park', sans-serif;
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #333;
+}
+footer {
+    font-size: .8em;
+}
+
+ul.posts { 
+    font-family: 'Kulim Park', sans-serif;
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+
+ul.posts li {
+    font-family: 'Kulim Park', sans-serif;
+    list-style: none;
+    font-size: 1em;
+}
+
 div.gallery img {
   width: 100%;
   height: auto;
