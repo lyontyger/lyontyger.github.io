@@ -33,14 +33,8 @@ footer {
     font-size: .8em;
 }
 
-ul.posts { 
+ul{ 
     font-family: 'Kulim Park', sans-serif;
     margin: 20px auto 40px; 
     font-size: 1.5em;
-}
-
-ul.posts li {
-    font-family: 'Kulim Park', sans-serif;
-    list-style: none;
-    font-size: 1em;
 }
