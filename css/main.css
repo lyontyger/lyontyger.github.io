@@ -9,7 +9,7 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     font-family: 'Kulim Park', sans-serif;
     display: inline;
-    margin-right: 10px;
+    margin-left: 10px;
     font-size: 1em;
 }
 a {
